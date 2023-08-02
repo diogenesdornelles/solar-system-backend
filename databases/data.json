@@ -1,0 +1,987 @@
+[
+    {
+        "id": 0,
+        "question": "Planeta mais próximo do Sol...",
+        "difficulty": 1
+    },
+    {
+        "id": 8,
+        "question": "Planeta que foi considerado o nono planeta do sistema solar até 2006...",
+        "difficulty": 1
+    },
+    {
+        "id": 4,
+        "question": "Primeiro planeta após o cinturão de asteroides...",
+        "difficulty": 2
+    },
+    {
+        "id": 1,
+        "question": "É considerado o planeta mais quente do sistema solar...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "É o maior planeta do sistema solar...",
+        "difficulty": 1
+    },
+    {
+        "id": 4,
+        "question": "Uma de suas luas é Ganimedes...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Uma de suas luas é Titãn...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "Assim como Saturno, também possui anéis, mas discretos...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "Foi descoberto pelo Astrônomo William Herschel, em 1781...",
+        "difficulty": 3
+    },
+    {
+        "id": 6,
+        "question": "Uma de suas luas é Miranda...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "Um dos principais objetivos da sonda espacial New Horizons era explorar esse planeta...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "Seu diâmetro é de 50.724Km...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "Possui 27 luas conhecidas...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "Sua temperatura média é de -197ºC...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "Sua composição atmosférica é de hidrogênio hélio e metano, razão pela qual recebe coloração verde-azulada...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "Está há aproximadamente 2.87 bilhões de kms do sol...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "Seu período de rotação é de 17 horas e 14 minutos...",
+        "difficulty": 3
+    },
+    {
+        "id": 6,
+        "question": "É o sétimo planeta a partir do sol...",
+        "difficulty": 1
+    },
+    {
+        "id": 6,
+        "question": "É o terceiro maior planeta do sistema solar...",
+        "difficulty": 1
+    },
+    {
+        "id": 6,
+        "question": "Os ventos em sua superfície chegam a atingir 900 km/h...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "O eixo magnético desse planeta tem uma grande inclinação, de 60º em relação ao eixo de rotação...",
+        "difficulty": 3
+    },
+    {
+        "id": 6,
+        "question": "Possui inclinação de cerca de 97,7º em seu equador, razão pela qual enfrenta as estações mais severas do sistema solar...",
+        "difficulty": 3
+    },
+    {
+        "id": 6,
+        "question": "Uma de suas luas é Titania...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "Uma de suas luas é Oberon...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "Uma de suas luas é Umbriel...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "Uma de suas luas é Ariel...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "Na mitologia grega, é o Deus dos Céus...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "Primeiro planeta descoberto com uso de telescópio...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "Desde a sua descoberta, completou apenas duas voltas no entorno do sol, a terceira será em 2033...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "Seu nome foi dado por johan Elert Bode, em 1782...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "O quarto mais massivo dos oito planetas do Sistema Solar...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "É a mais fria atmosfera planetária no Sistema Solar, com uma temperatura mínima de 49 K (menos 224 °C)...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "Completa uma volta ao redor do Sol a cada aproximadamente 84 anos terrestres...",
+        "difficulty": 2
+    },
+    {
+        "id": 6,
+        "question": "Nele, a intensidade da luz solar é de cerca de 1/400 da terrestre...",
+        "difficulty": 3
+    },
+    {
+        "id": 6,
+        "question": "Sua densidade é de 1,27 g/cm3, que o faz o segundo planeta menos denso...",
+        "difficulty": 3
+    },
+    {
+        "id": 7,
+        "question": "O oitavo planeta do sistema solar...",
+        "difficulty": 1
+    },
+    {
+        "id": 7,
+        "question": "O menor dos planetas gigantes gasosos...",
+        "difficulty": 2
+    },
+    {
+        "id": 7,
+        "question": "Possui os ventos mais rápidos do Sistema Solar, que atingem mais de 2 000 km/h...",
+        "difficulty": 2
+    },
+    {
+        "id": 7,
+        "question": "Orbitam quatorze satélites naturais conhecidos aoo seu redor...",
+        "difficulty": 2
+    },
+    {
+        "id": 7,
+        "question": "Uma de suas luas é Tritão...",
+        "difficulty": 2
+    },
+    {
+        "id": 7,
+        "question": "Tem um período de rotação de 16 horas e sete minutos...",
+        "difficulty": 2
+    },
+    {
+        "id": 7,
+        "question": "A aceleração da gravidade no planeta é de 11,15 m/s², pouco maior que a Terra...",
+        "difficulty": 3
+    },
+    {
+        "id": 7,
+        "question": "Tem diâmetro equatorial de 49.528km...",
+        "difficulty": 3
+    },
+    {
+        "id": 7,
+        "question": "Completa uma translação ao redor do Sol a cada 164,79 anos terrestres...",
+        "difficulty": 3
+    },
+    {
+        "id": 7,
+        "question": "A partir do ponto onde foi descoberto, esse planeta completou sua primeira órbita somente em julho de 2011...",
+        "difficulty": 3
+    },
+    {
+        "id": 7,
+        "question": "Está há aproximadamente 4,49 bilhões de quilômetros do sol...",
+        "difficulty": 3
+    },
+    {
+        "id": 7,
+        "question": "Sua órbita possui uma excentricidade de somente 0,011, o que faz com que seja uma das mais circulares dentre os planetas do Sistema Solar...",
+        "difficulty": 3
+    },
+    {
+        "id": 7,
+        "question": "A órbita desse planeta é compartilhada com objetos troianos, que encontram-se distribuídos próximo aos pontos localizados 60° a frente e atrás do planeta...",
+        "difficulty": 3
+    },
+    {
+        "id": 7,
+        "question": "O planeta anão Plutão está em ressonância 2:3 com esse planeta, ou seja, enquanto esse planeta completa duas voltas ao redor do Sol, Plutão completa exatamente três...",
+        "difficulty": 3
+    },
+    {
+        "id": 7,
+        "question": "Uma de suas luas é Proteu...",
+        "difficulty": 2
+    },
+    {
+        "id": 7,
+        "question": "Uma de suas luas é Larissa...",
+        "difficulty": 2
+    },
+    {
+        "id": 7,
+        "question": "Uma de suas luas é Nereida...",
+        "difficulty": 2
+    },
+    {
+        "id": 7,
+        "question": "Uma de suas luas é Talassa...",
+        "difficulty": 2
+    },
+    {
+        "id": 7,
+        "question": "Uma de suas luas é Galateia...",
+        "difficulty": 2
+    },
+    {
+        "id": 7,
+        "question": "Uma de suas luas é Despina...",
+        "difficulty": 2
+    },
+    {
+        "id": 7,
+        "question": "Uma de suas luas é Náiade...",
+        "difficulty": 2
+    },
+    {
+        "id": 7,
+        "question": "Seu nome foi dado em homenagem ao Deus dos Mares na mitologia Romana...",
+        "difficulty": 1
+    },
+    {
+        "id": 7,
+        "question": "Planeta descoberto por Urbain Le Verrier e John Couch Adams, em conjunto...",
+        "difficulty": 3
+    },
+    {
+        "id": 3,
+        "question": "Quarto planeta mais distante do sol...",
+        "difficulty": 1
+    },
+    {
+        "id": 3,
+        "question": "Conhecido como 'o planeta vermelho'...",
+        "difficulty": 1
+    },
+    {
+        "id": 3,
+        "question": "A empresa SpaceX quer levar um ser humano nesse planeta...",
+        "difficulty": 1
+    },
+    {
+        "id": 3,
+        "question": "Possui duas luas, chamadas Fobos e Deimos...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "Está há aproximadamente a 227 milhões de km do Sol...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "Tem um período de rotação de 24 horas e 37 minutos...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "Tem período de translação de 687 dias...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "Sua coloração avermelhada é em decorrência da composição mineral de suas rochas...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "Possui uma fina camada atmosférica, composta principalmente por dióxido de carbono (96%), nitrogênio e argônio...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "A luz do Sol demora em média 13 minutos para chegar à sua superfície...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "Possui um diâmetro de 6.794Km...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "Possui uma gravidade de 3,71m/s²...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "Possui temperatura média de menos 62,77ºC...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "Possui um diâmetro que é aproximadamente a metade do diâmetro da Terra...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "É lar da maior montanha do Sistema Solar, o Monte Olimpo, ...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "É lar da maior montanha do Sistema Solar, o Monte Olimpo, com cerca de 21,7Km de altura ...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "Seu nome é derivado do deus romano da guerra em decorrência de sua coloração avermelhada...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "A inclinação do eixo é de 25,2º...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "Galileu Galilei foi o primeiro a observar esse planeta com o auxílio de um telescópio. Tal fato ocorreu em 1610...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "A maior aproximação entre a Terra e esse planeta é de 54,6 milhões de km...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "A primeira missão a esse planeta enviada pela Nasa, agência espacial norte-americana, deu-se entre os anos de 1962 e 1973, e foi chamada de Mariner 3 & 4...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "Pathfinder foi o primeiro Rover a pousar em outro planeta, tendo chegado a superfície desse planeta em 04/07/1997...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "A atmosfera de Marte é composta principalmente de dióxido de carbono (cerca de 96 por cento), com quantidades menores de outros gases, como argônio e nitrogênio...",
+        "difficulty": 2
+    },
+    {
+        "id": 3,
+        "question": "Caberiam pouco mais de 6 desses planetas no interior da Terra ...",
+        "difficulty": 2
+    },
+    {
+        "id": 2,
+        "question": "É o nosso lar ...",
+        "difficulty": 1
+    },
+    {
+        "id": 2,
+        "question": "É o terceiro planeta mais distante do sol ...",
+        "difficulty": 1
+    },
+    {
+        "id": 2,
+        "question": "Recebeu o apelido de pálido ponto azul ...",
+        "difficulty": 1
+    },
+    {
+        "id": 2,
+        "question": "Único ponto do Sistema Solar e do Universo em que, até onde se sabe, existe vida ...",
+        "difficulty": 1
+    },
+    {
+        "id": 2,
+        "question": "Quinto maior planeta do Sistema Solar e o mais denso ...",
+        "difficulty": 1
+    },
+    {
+        "id": 2,
+        "question": "Formou-se há aproximadamente 4,56 bilhões de anos ...",
+        "difficulty": 1
+    },
+    {
+        "id": 2,
+        "question": "O único planeta que apresenta água nos estados gasoso, líquido e sólido...",
+        "difficulty": 1
+    },
+    {
+        "id": 2,
+        "question": "Apresenta apenas um satélite natural...",
+        "difficulty": 1
+    },
+    {
+        "id": 2,
+        "question": "Seu movimento de translação dura aproximadamente 366,26 rotações sobre o próprio eixo...",
+        "difficulty": 1
+    },
+    {
+        "id": 2,
+        "question": "Seu dia dura 23 horas e 56 minutos...",
+        "difficulty": 1
+    },
+    {
+        "id": 2,
+        "question": "Seu diâmetro de 12.713,5032 quilômetros...",
+        "difficulty": 3
+    },
+    {
+        "id": 2,
+        "question": "Sua superfície é de 510.065.500 quilômetros quadrados...",
+        "difficulty": 3
+    },
+    {
+        "id": 2,
+        "question": "A sua superfície exterior está dividida em vários segmentos rígidos, chamados placas tectônicas, que migram sobre a superfície ao longo de milhões de anos...",
+        "difficulty": 3
+    },
+    {
+        "id": 2,
+        "question": "Cerca de 71% da superfície desse planeta está coberta por oceanos de água salgada...",
+        "difficulty": 3
+    },
+    {
+        "id": 2,
+        "question": "Seu eixo de rotação possui uma inclinação de 23,4° em relação à perpendicular ao seu plano orbital...",
+        "difficulty": 3
+    },
+    {
+        "id": 0,
+        "question": "O planeta mais interno do Sistema Solar...",
+        "difficulty": 1
+    },
+    {
+        "id": 0,
+        "question": "O menor planeta do Sistema Solar...",
+        "difficulty": 1
+    },
+    {
+        "id": 0,
+        "question": "O menor planeta do Sistema Solar...",
+        "difficulty": 1
+    },
+    {
+        "id": 0,
+        "question": "As duas primeiras espaçonaves a explorar o planeta foram a Mariner 10 (1974 e 1975) e a Messenger (2008)...",
+        "difficulty": 2
+    },
+    {
+        "id": 0,
+        "question": "Possui uma aparência similar à da lua e não possui satélites naturais...",
+        "difficulty": 2
+    },
+    {
+        "id": 0,
+        "question": "Possui um raio equatorial de 2.439,7 Km...",
+        "difficulty": 2
+    },
+    {
+        "id": 0,
+        "question": "A temperatura média da superfície desse planeta é de 169,35 °C...",
+        "difficulty": 2
+    },
+    {
+        "id": 0,
+        "question": "A temperatura varia numa faixa de -173,15 °C (100 K) a 426,85 °C (700 K) nesse planeta...",
+        "difficulty": 2
+    },
+    {
+        "id": 0,
+        "question": "Possui uma lenta velocidade de rotação de 59 dias terrestres...",
+        "difficulty": 2
+    },
+    {
+        "id": 0,
+        "question": "Leva 87,969 dias terrestres para completar um período de translação...",
+        "difficulty": 2
+    },
+    {
+        "id": 0,
+        "question": "Um dia nesse planeta dura exatamente dois anos, ou seja, cerca de 176 dias terrestres...",
+        "difficulty": 2
+    },
+    {
+        "id": 0,
+        "question": "A inclinação axial desse planeta é quase zero, sendo de 0,027º o melhor valor medido até hoje...",
+        "difficulty": 2
+    },
+    {
+        "id": 0,
+        "question": "Esse planeta rotaciona uma vez para cada translação e mantém sempre a mesma face voltada para o Sol, do mesmo modo que o mesmo lado da Lua está sempre voltado para a Terra...",
+        "difficulty": 2
+    },
+    {
+        "id": 1,
+        "question": "É também chamado de Estrela D'alva...",
+        "difficulty": 2
+    },
+    {
+        "id": 1,
+        "question": "É o segundo planeta mais próximo do Sol...",
+        "difficulty": 2
+    },
+    {
+        "id": 1,
+        "question": "Além do Sol e da Lua, é o corpo celeste mais brilhante no céu...",
+        "difficulty": 2
+    },
+    {
+        "id": 1,
+        "question": "A primeira missão esse planeta data de 1961. Chamou-se Venera 1 e era soviética, como a grande parte das missões feitas ao planeta...",
+        "difficulty": 2
+    },
+    {
+        "id": 1,
+        "question": "É o planeta mais próximo da Terra....",
+        "difficulty": 2
+    },
+    {
+        "id": 1,
+        "question": "Sua rotação ocorre de leste para oeste, contrária a todos os planetas do Sistema Solar...",
+        "difficulty": 2
+    },
+    {
+        "id": 1,
+        "question": "O planeta recebeu esse nome em homenagem à Vênus, a deusa romana da beleza e do amor...",
+        "difficulty": 1
+    },
+    {
+        "id": 1,
+        "question": "É o planeta mais quente, apesar de não ser o mais próximo do Sol...",
+        "difficulty": 2
+    },
+    {
+        "id": 1,
+        "question": "Tem 12.104 km de diâmetro, ou seja, seu raio equivale a 6.052 km...",
+        "difficulty": 2
+    },
+    {
+        "id": 1,
+        "question": "Sua superfície é coberta de lava e composta principalmente de dióxido de carbono e ácido sulfúrico, os quais formam nuvens densas responsáveis pelo fenômeno de efeito estufa...",
+        "difficulty": 2
+    },
+    {
+        "id": 1,
+        "question": "Pelo menos 97% de sua composição atmosférica é feita por dióxido de carbono...",
+        "difficulty": 2
+    },
+    {
+        "id": 1,
+        "question": "A temperatura chega a 482 ºC na superfície devido ao efeito estufa dos componentes do planeta...",
+        "difficulty": 2
+    },
+    {
+        "id": 1,
+        "question": "Está há aproximadamente 108 milhões de quilômetros do Sol...",
+        "difficulty": 1
+    },
+    {
+        "id": 1,
+        "question": "Seu ano equivale a 225 dias terrestres...",
+        "difficulty": 2
+    },
+    {
+        "id": 1,
+        "question": "Seu dia equivale a 243 dias terrestres...",
+        "difficulty": 2
+    },
+    {
+        "id": 1,
+        "question": "Possui 95% do tamanho da terra...",
+        "difficulty": 2
+    },
+    {
+        "id": 1,
+        "question": "Sua pressão atmosférica é 90 vezes maior que a terrestre; é, portanto, a pressão atmosférica mais alta de todos os planetas rochosos do sistema solar...",
+        "difficulty": 2
+    },
+    {
+        "id": 1,
+        "question": "Possui coloração amarelada devido à sua atmosfera, que é composta principalmente por dióxido de carbono,sulfeto de hidrogênio e nitrogênio...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "O maior planeta do Sistema Solar...",
+        "difficulty": 1
+    },
+    {
+        "id": 4,
+        "question": "Quinto planeta mais afastado do sol...",
+        "difficulty": 1
+    },
+    {
+        "id": 4,
+        "question": "O planeta mais massivo do Sistema solar...",
+        "difficulty": 1
+    },
+    {
+        "id": 4,
+        "question": "Possui menos de um milésimo da massa solar, contudo tem 2,5 vezes a massa de todos os outros planetas em conjunto...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "Possui pelo menos 95 satélites...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "É observável da Terra a olho nu, com uma magnitude aparente máxima de -2,94, sendo no geral o quarto objeto mais brilhante no céu, depois do Sol, da Lua e de Vênus...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "Várias sondas espaciais visitaram esse planeta.  A Pioneer 10 passou em dezembro de 1973, seguida pela Pioneer 11, cerca de um ano depois...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "Sua atmosfera é composta de 88 a 92% de hidrogênio e 8 a 12% de hélio...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "A característica mais marcante desse planeta é a Grande Mancha Vermelha, uma tempestade anticiclônica persistente, localizada 22° ao sul do equador, que, com dimensões de 24-40 mil km x 12-14 mil km...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "É o único planeta cujo centro de massa com o Sol fica fora do último, 1,068 raio solar ou 7% acima da superfície solar...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "A distância média entre esse planeta e o Sol é de 778 milhões de quilômetros...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "Completa uma órbita em torno do Sol a cada 11,86 anos...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "A inclinação axial de Júpiter é relativamente pequena: apenas 3,13°. Como consequência, o planeta não possui mudanças significativas de estações...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "Sua rotação é a mais rápida entre todos os planetas do Sistema Solar. Completa uma volta em torno de si mesmo em menos de 10 horas...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "Io é um de seus satélites naturais...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "Europa é um de seus satélites naturais...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "Ganimedes é um de seus satélites naturais...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "Calisto é um de seus satélites naturais...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "Métis é um de seus satélites naturais...",
+        "difficulty": 3
+    },
+    {
+        "id": 4,
+        "question": "Tebe é um de seus satélites naturais...",
+        "difficulty": 3
+    },
+    {
+        "id": 4,
+        "question": "Temisto é um de seus satélites naturais...",
+        "difficulty": 3
+    },
+    {
+        "id": 4,
+        "question": "Possui diâmetro equatorial de 142.984Km...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "Sua temperatura média é de -121,1ºC...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "Caso o interior desse planeta fosse oco, caberiam 1300 Terras dentro dele...",
+        "difficulty": 2
+    },
+    {
+        "id": 4,
+        "question": "A força gravitacional nesse planeta é de 22,9 m/s², enquanto na Terra essa força é de 9,8 m/s². Você pesaria mais que o dobro nele!...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Apresenta belos aneis...",
+        "difficulty": 1
+    },
+    {
+        "id": 5,
+        "question": "É o sexto planeta a partir do Sol...",
+        "difficulty": 1
+    },
+    {
+        "id": 5,
+        "question": "O segundo maior planeta do Sistema Solar...",
+        "difficulty": 1
+    },
+    {
+        "id": 5,
+        "question": "82 satélites naturais giram ao seu redor...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Possui um raio de aproximadamente 58,2 mil quilômetros, equivalente a pouco mais de 9 vezes o raio da Terra...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Sua massa, por outro lado, equivale a 95 massas terrestres...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "O planeta possui a menor densidade dentre todos do Sistema Solar, sendo de somente 0,7 g/cm³, menor que a massa específica da água...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Embora seja imenso, a aceleração da gravidade no equador desse planeta é de 8,96 m/s², menor que a da Terra...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Embora seja imenso, a aceleração da gravidade no equador desse planeta é de 8,96 m/s², menor que a da Terra...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Possui um período de rotação próximo de 10h 34min 24s...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Seu eixo de rotação é inclinado em 27° em relação ao plano de órbita do planeta....",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Uma de suas luas é Pandora...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Uma de suas luas é Atlas...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Uma de suas luas é Jano...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Uma de suas luas é Réia, a segunda maior...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Uma de suas luas é Jápetus...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Uma de suas luas é Epimeteu...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Uma de suas luas é Encélado...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Uma de suas luas é Tétis...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Uma de suas luas é Hipérion...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Possui um diâmetro de 116.464Km...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Está há 1,4 bilhões de quilômetros do Sol...",
+        "difficulty": 2
+    },
+    {
+        "id": 5,
+        "question": "Tem temperatura média de -138ºC...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "Está localizado a 5,9 bilhões de quilômetros distante do Sol...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "O dia e, ____ demora 153 horas terrestres...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "Um ano nele, demora 247,7 anos terrestres...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "Assim como Urano e Vênus, possui uma rotação retrógrada, ou seja, gira de leste para oeste...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "Possui temperatura estimada de 220 ºC negativos...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "Ele está localizado numa zona do espaço denominada Cinturão de Kuiper...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "Curiosamente, ele chega a cruzar com Netuno na órbita em torno do Sol. A sua órbita é bastante elíptica e chega a aproximar-se do Sol mais que Netuno. ",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "A principal das cinco luas a orbitá-lo é Caronte, descoberta em 1978...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "Foi descoberto em 1930 pelo astrônomo estadunidense Clyde Tombaugh...",
+        "difficulty": 3
+    },
+    {
+        "id": 8,
+        "question": "Possui o nome do deus romano do submundo...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "É um planeta-anão, assim como Éris, Ceres, Haumea e Makemake...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "Tem um raio de aproximadamente 1.150 quilômetros...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "Seria necessário andar uma distância na casa dos 7.230 quilômetros para dar uma volta completa nele, algo como ir em linha reta da Amazônia até a Espanha...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "Sua massa é 500 vezes menor do que a Terra...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "Consiste em 30-50% de gelo e 50-70% de rocha...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "Ao contrário dos outros planetas, sua órbita é inclinada e elíptica...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "Em média, sua distância até o sol é de 5.913.520.000 km...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "A luz solar demora cerca de 5 horas para chegar nele...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "Tem uma geleira em forma de coração chamada Tombaugh Regio....",
+        "difficulty": 3
+    },
+    {
+        "id": 8,
+        "question": "A intensidade da luz do sol nele é equivalente à intensidade da luz da lua na Terra...",
+        "difficulty": 2
+    },
+    {
+        "id": 8,
+        "question": "Possui órbita altamente inclinada em relação à eclíptica (mais de 17°)...",
+        "difficulty": 2
+    }
+]
